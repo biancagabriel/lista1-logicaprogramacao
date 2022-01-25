@@ -2,6 +2,8 @@ package lista1;
 
 import java.util.Scanner;
 
+//2) Faça um programa que receba três números, calcule e mostre a multiplicação desses números.
+
 public class ex2 {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
